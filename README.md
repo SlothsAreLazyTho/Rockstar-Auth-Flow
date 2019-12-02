@@ -10,7 +10,7 @@ For more information please contact me to the following platforms:
 
 
 # Look at this:
-This is not made to be a huge project. Its to show how you authenticate within this API in Java. 
+This is not made to be a huge project. It's to show basically how you authenticate within this API in Java. 
 Don't expect a whole project. I might make a extended version for this project in the future.
 
 # Basic understanding
