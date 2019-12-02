@@ -9,9 +9,21 @@ For more information please contact me to the following platforms:
 2. Twitter: @chinobman
 
 
-# Look at this:
+# Quick Note:
 This is not made to be a huge project. It's to show basically how you authenticate within this API in Java. 
 Don't expect a whole project. I might make a extended version for this project in the future.
+
+# Requirements / Dependencies
+- Retrofit 2
+- OkHttp3
+- Okio 1.15
+- JavaNetCookieJar
+
+# Disclaimer
+Using this Auth Flow might be a violation of Rockstar's Terms of Service. I take no responsibility for the way you use it. It is completely your responsibility
+
+# Version
+0.1
 
 # Basic understanding
 To login with this api use the following code:
