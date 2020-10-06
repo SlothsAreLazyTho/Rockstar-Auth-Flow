@@ -5,8 +5,8 @@ The API that is used in this project is from:
 https://rockstar-api.readthedocs.io/en/latest/index.html
 
 For more information please contact me to the following platforms:
-1. Discord: Thomas Platvis#1813
-2. Twitter: @chinobman
+1. Discord: Sir Sloth#2250
+2. Twitter: @srsloth18
 
 
 # Quick Note:
